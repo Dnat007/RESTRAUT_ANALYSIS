@@ -1,0 +1,1 @@
+# any function which is comman and used in entire application 
