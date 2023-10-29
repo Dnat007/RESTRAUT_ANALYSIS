@@ -2,4 +2,9 @@ pandas
 numpy
 seaborn
 ipykernel
--e .
+matplotlib
+pymongo
+scikit-learn
+catboost
+
+# -e .
