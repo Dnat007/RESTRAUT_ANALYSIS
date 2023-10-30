@@ -6,5 +6,5 @@ matplotlib
 pymongo
 scikit-learn
 catboost
-
+dataclasses
 # -e .
