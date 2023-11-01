@@ -7,4 +7,5 @@ pymongo
 scikit-learn
 catboost
 dataclasses
+dill
 # -e .
