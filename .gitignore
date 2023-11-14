@@ -163,3 +163,4 @@ cython_debug/
 # files that will not in github
 zomato.csv
 completed_eda_csv.csv
+model.pkl
